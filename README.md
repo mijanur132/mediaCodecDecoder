@@ -1,7 +1,4 @@
-#Android MediaCodec example
-API Level 21 is required
 
-Flow of video playback
 
     1.MediaExtractor set source video resource (R.raw.xxx)
     2.MediaExtractor get video type (In MediaFormat) and select first video track ("video/")
